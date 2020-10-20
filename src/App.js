@@ -5,7 +5,7 @@ import Header from './comp/Header'
 import Footer from './comp/Footer';
 import CreateNote from './comp/CreateNote';
 import Note from './comp/Note';
-import Apifetch from './comp1/Apifetch';
+
 
 function App(props) {
   const [notes,setnote]=useState([]);
