@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Google-Keep-App-in-React-js/static/css/main.6e39dcf5.chunk.css",
-    "main.js": "/Google-Keep-App-in-React-js/static/js/main.11fac88b.chunk.js",
-    "main.js.map": "/Google-Keep-App-in-React-js/static/js/main.11fac88b.chunk.js.map",
-    "runtime-main.js": "/Google-Keep-App-in-React-js/static/js/runtime-main.c14662cf.js",
-    "runtime-main.js.map": "/Google-Keep-App-in-React-js/static/js/runtime-main.c14662cf.js.map",
-    "static/css/2.2a86faee.chunk.css": "/Google-Keep-App-in-React-js/static/css/2.2a86faee.chunk.css",
-    "static/js/2.e49e5668.chunk.js": "/Google-Keep-App-in-React-js/static/js/2.e49e5668.chunk.js",
-    "static/js/2.e49e5668.chunk.js.map": "/Google-Keep-App-in-React-js/static/js/2.e49e5668.chunk.js.map",
-    "index.html": "/Google-Keep-App-in-React-js/index.html",
-    "precache-manifest.9ee5c605db508d290f7772698d74ef95.js": "/Google-Keep-App-in-React-js/precache-manifest.9ee5c605db508d290f7772698d74ef95.js",
-    "service-worker.js": "/Google-Keep-App-in-React-js/service-worker.js",
-    "static/css/2.2a86faee.chunk.css.map": "/Google-Keep-App-in-React-js/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.6e39dcf5.chunk.css.map": "/Google-Keep-App-in-React-js/static/css/main.6e39dcf5.chunk.css.map",
-    "static/js/2.e49e5668.chunk.js.LICENSE.txt": "/Google-Keep-App-in-React-js/static/js/2.e49e5668.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Google-Keep-App-in-React-js/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Google-Keep-App-React-js/static/css/main.6e39dcf5.chunk.css",
+    "main.js": "/Google-Keep-App-React-js/static/js/main.8feda541.chunk.js",
+    "main.js.map": "/Google-Keep-App-React-js/static/js/main.8feda541.chunk.js.map",
+    "runtime-main.js": "/Google-Keep-App-React-js/static/js/runtime-main.9ebc4f75.js",
+    "runtime-main.js.map": "/Google-Keep-App-React-js/static/js/runtime-main.9ebc4f75.js.map",
+    "static/css/2.2a86faee.chunk.css": "/Google-Keep-App-React-js/static/css/2.2a86faee.chunk.css",
+    "static/js/2.e49e5668.chunk.js": "/Google-Keep-App-React-js/static/js/2.e49e5668.chunk.js",
+    "static/js/2.e49e5668.chunk.js.map": "/Google-Keep-App-React-js/static/js/2.e49e5668.chunk.js.map",
+    "index.html": "/Google-Keep-App-React-js/index.html",
+    "precache-manifest.a9cc333f6c27480c481c7e1914fb3c9b.js": "/Google-Keep-App-React-js/precache-manifest.a9cc333f6c27480c481c7e1914fb3c9b.js",
+    "service-worker.js": "/Google-Keep-App-React-js/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/Google-Keep-App-React-js/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.6e39dcf5.chunk.css.map": "/Google-Keep-App-React-js/static/css/main.6e39dcf5.chunk.css.map",
+    "static/js/2.e49e5668.chunk.js.LICENSE.txt": "/Google-Keep-App-React-js/static/js/2.e49e5668.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Google-Keep-App-React-js/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c14662cf.js",
+    "static/js/runtime-main.9ebc4f75.js",
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.e49e5668.chunk.js",
     "static/css/main.6e39dcf5.chunk.css",
-    "static/js/main.11fac88b.chunk.js"
+    "static/js/main.8feda541.chunk.js"
   ]
 }
